@@ -1,4 +1,4 @@
-package concurrent.memory;
+package concurrent.memory.chapter01;
 
 /**
  * @ClassName chapter01
